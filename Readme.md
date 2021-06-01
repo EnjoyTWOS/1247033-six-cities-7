@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Volodymyr Danylyuk](https://up.htmlacademy.ru/react/7/user/1247033).
-* Наставник: `Неизвестно`.
+* Наставник: [Ruslan Malogulko](https://htmlacademy.ru/profile/id9728).
 
 ---
 
